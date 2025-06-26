@@ -1,0 +1,75 @@
+INFO:root:Session ID: None, User Query: What do you want to say about Zeeshan?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 400 Bad Request"
+INFO:root:Session ID: 1, User Query: What do you know about Zeeshan, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 400 Bad Request"
+INFO:root:Session ID: None, User Query: What do you know about Zeeshan?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 400 Bad Request"
+INFO:root:Session ID: None, User Query: What do you know about Zeeshan?, Model: opneai/gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: None, User Query: What do you know about Zeeshan?, Model: openai/gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 400 Bad Request"
+INFO:root:Session ID: None, User Query: Hey there, Model: openai/gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: a6260b54-7baa-4409-a6d3-53703dc4e6a8, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: a6260b54-7baa-4409-a6d3-53703dc4e6a8, User Query: What do you know about Zeeshan?, Model: openai/gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: a6260b54-7baa-4409-a6d3-53703dc4e6a8, AI Response: Based on the provided context, Zeeshan appears to be a highly skilled individual with a background in engineering and experience in software development. Here are some key points:
+
+1. **Education**:
+   - Zeeshan graduated from the Maharashtra Institute of Technology (MIT WPU) with a B. Tech in Electronics and Communication Engineering (ECE) from June 2018 to May 2022, achieving a CGPA of 9.68/10.0 and ranking among the top students.
+   - In high school, Zeeshan attended ADLS Sunshine School, where he was the school topper with 92% marks and served as the school president.
+
+2. **Achievements**:
+   - As the captain of the college football team, he led the team to victory in the Sports Summit 2021 and won an inter-college baseball tournament in 2022.
+   - He received scholarships for two years due to his exemplary academic performance.
+
+3. **Professional Experience**:
+   - Worked as a Software Engineer from October 2022 to March 2024 in Bangalore, India, where he optimized system performance significantly and automated reporting processes to enhance productivity.
+   - He has experience with technologies like Solace Pub-Sub, WatsonX, and Gen AI, improving system efficiency and process accuracy.
+
+4. **Certifications and Skills**:
+   - Zeeshan has multiple certifications from Google and IBM related to AI, agile methodologies, and design thinking.
+   - He has led and mentored development teams, facilitated effective communication with stakeholders, and optimized project workflows using tools like JIRA and Power BI.
+
+If you need more specific information or have any other questions about Zeeshan, feel free to ask!
+INFO:root:Session ID: None, User Query: Hi there, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 400 Bad Request"
+INFO:root:Session ID: None, User Query: Hey there!!, Model: openai/gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2498f950-26b2-440c-a6a0-4e9e99bfe6a1, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: None, User Query: Hi There, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 400 Bad Request"
+INFO:root:Session ID: None, User Query: Hi There, Model: openai/gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, User Query: So what do you know about Md Zeeshan?, Model: openai/gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, AI Response: Md. Zeeshan Faiz is a Generative AI Engineer based in Bengaluru, India, currently working at Outlier AI since April 2025. He has expertise in building and evaluating generative AI pipelines using tools like LangChain, LlamaIndex, and vector databases (e.g., ChromaDB, FAISS). His work involves tasks such as context-augmented question answering, task completion, PEFT (Parameter-Efficient Fine-Tuning) techniques like LoRA for domain-specific fine-tuning of LLMs, and developing Retrieval-Augmented Generation (RAG) pipelines for semantic search and document QA. Additionally, he reviews and optimizes real-world coding problems to enhance LLM training and evaluation.
+
+He graduated with a B.Tech in ECE Engineering from Maharashtra Institute of Technology (MIT WPU), Pune, in 2022, achieving a CGPA of 9.68/10. He was also actively involved in extracurricular activities, such as captaining the college football team and winning inter-college tournaments.
+
+At the high school level, Zeeshan studied Computer Science at ADLS Sunshine School in Jamshedpur, where he was a school topper with 92% marks and served as the School President. He also received a 2-year scholarship for his academic performance.
+
+Zeeshan has earned certifications in areas like LLM, AI Principles (Google), IBM Agile Explorer, IBM Cloud Advocate, and others. His skills and interests span generative AI, coding, leadership, and sports.
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, User Query: Hey gpt-4o-mini how are you?, Model: openai/gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, AI Response: AIMessage(content="I'm here and ready to help! How can I assist you further today?", additional_kwargs={}, response_metadata={})
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, User Query: gpt-4.1 what about you?, Model: openai/gpt-4.1
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 530c34cd-a287-40c5-bde8-eae3e42957c4, AI Response: I'm always here and ready to assist you! How can I help you today? If you have any questions or need support with something specific—whether it's about technology, coding, or something else—just let me know!
+INFO:root:Session ID: None, User Query: Hi, Model: openai/gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0114ec61-1b81-4c7d-a984-6df7ddcc872e, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: None, User Query: Hi, Model: openai/gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8de59575-0652-4952-8c9f-057f5fc7eca2, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: None, User Query: Hi there, Model: openai/gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 2732ba31-7f0f-4de2-927e-9a53fa060c93, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: None, User Query: Hi there, Model: openai/gpt-4o
+INFO:httpx:HTTP Request: POST https://models.github.ai/inference/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: d1a354c4-e58e-459a-a447-7c40bb293429, AI Response: Hello! How can I assist you today?
