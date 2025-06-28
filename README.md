@@ -1,4 +1,4 @@
-# 🤖 ZeePT AI Assistant
+# 🤖 ZeePT RAG Chatbot
 
 A fully functional **Retrieval-Augmented Generation (RAG)** chatbot powered by **LangChain**, **FastAPI**, and **Streamlit**, all running on **free OpenAI-compatible models** via **GitHub Inference** with no credits required!
 
