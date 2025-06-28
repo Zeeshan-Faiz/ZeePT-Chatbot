@@ -2,7 +2,7 @@
 
 A fully functional **Retrieval-Augmented Generation (RAG)** chatbot powered by **LangChain**, **FastAPI**, and **Streamlit**, all running on **free OpenAI-compatible models** via **GitHub Inference** with no credits required!
 
-![RAG Chatbot UI](AI_Assistant_ss_light.png)
+![RAG Chatbot UI](ZeePT_Chatbot_ss.png)
 
 ---
 
