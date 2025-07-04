@@ -80,6 +80,6 @@ Open the link shown (usually http://localhost:8501) in your browser.
 ## 🚀 Try It Online (No Setup Needed)
 
 👉 Try on Hugging Face Spaces
-[ZeePT AI Chatbot](https://huggingface.co/spaces/MrFaiz07/ZeePT)
+[ZeePT RAG Chatbot](https://huggingface.co/spaces/MrFaiz07/ZeePT_RAG_Chatbot)
 
 Hosted version with no installation or config needed. Just open and start chatting!
